@@ -1,0 +1,83 @@
+<resources>
+    <string name="sample">Please select a Band and click for more details of the band..!!!</string>
+    <string name="app_name">Rock On!</string>
+    <string name="ledZeppelinString">Led Zeppelin</string>
+    <string name="beatlesString">The Beatles</string>
+    <string name="pinkFloydString">Pink Floyd</string>
+    <string name="queenString">Queen</string>
+    <string name="metallicaString">Metallica</string>
+
+    <string name="lzDesc"><b>Led Zeppelin</b> were an English rock band formed in London in 1968. The group consisted of guitarist
+        Jimmy Page, singer Robert Plant, bassist and keyboardist John Paul Jones, and drummer John Bonham. The band\'s heavy,
+        guitar-driven sound, rooted in blues and psychedelia on their early albums, has earned them recognition as one of the
+        progenitors of heavy metal, though their unique style drew from a wide variety of influences, including folk music.
+        After changing their name from the New Yardbirds, Led Zeppelin signed a deal with Atlantic Records that afforded them
+        considerable artistic freedom. Although the group was initially unpopular with critics, they achieved significant commercial
+        success with albums such as Led Zeppelin (1969), Led Zeppelin II (1969), Led Zeppelin III (1970), Led Zeppelin IV (1971),
+        Houses of the Holy (1973), and Physical Graffiti (1975). Their fourth album, which features the track "Stairway to Heaven",
+        is among the most popular and influential works in rock music, and it helped to secure the group\'s popularity.
+        Page wrote most of Led Zeppelin\'s music, particularly early in their career, while Plant generally supplied the lyrics. Jones\'
+        keyboard-based compositions later became central to the group\'s catalogue, which featured increasing experimentation. The
+        latter half of their career saw a series of record-breaking tours that earned the group a reputation for excess and debauchery.
+        Although they remained commercially and critically successful, their output and touring schedule were limited during the
+        late 1970s, and the group disbanded following Bonham\'s death from alcohol-related asphyxia in 1980.\n\nLed Zeppelin are widely considered one of the most successful, innovative, and influential rock groups in history.
+        They are one of the best-selling music artists in the history of audio recording; various sources estimate the group\'s
+        record sales at 200 to 300 million units worldwide. Rolling Stone magazine described them as "the heaviest band of all time",
+        "the biggest band of the Seventies", and "unquestionably one of the most enduring bands in rock history". They were
+        inducted into the Rock and Roll Hall of Fame in 1995; the museum\'s biography of the band states that they were "as influential"
+        during the 1970s as the Beatles were during the 1960s.</string>
+    <string name="tbDesc"><b>The Beatles</b> were an English rock band, formed in Liverpool in 1960. With members John Lennon,
+        Paul McCartney, George Harrison and Ringo Starr, they became widely regarded as the foremost and most influential act of the
+        rock era. Rooted in skiffle, beat, and 1950s rock and roll, the Beatles later experimented with several genres, ranging
+        from pop ballads and Indian music to psychedelia and hard rock, often incorporating classical elements in innovative ways.
+        In the early 1960s, their enormous popularity first emerged as "Beatlemania", but as the group\'s music grew in sophistication,
+        led by primary songwriters Lennon and McCartney, they came to be perceived as an embodiment of the ideals shared by the
+        counterculture of the 1960s.\n\nThe Beatles built their reputation playing clubs in Liverpool and Hamburg over a three-year period from 1960, with
+        Stuart Sutcliffe initially serving as bass player. The core of Lennon, McCartney and Harrison went through a succession
+        of drummers, most notably Pete Best, before asking Starr to join them. Manager Brian Epstein moulded them into a professional
+        act and producer George Martin enhanced their musical potential. They gained popularity in the United Kingdom after their
+        first hit, "Love Me Do", in late 1962. They acquired the nickname "the Fab Four" as Beatlemania grew in Britain over the
+        following year, and by early 1964 they had become international stars, leading the "British Invasion" of the United States
+        pop market. From 1965 onwards, the Beatles produced what many consider their finest material, including the innovative and
+        widely influential albums Rubber Soul (1965), Revolver (1966), Sgt. Pepper\'s Lonely Hearts Club Band (1967), The Beatles
+        (commonly known as the White Album, 1968) and Abbey Road (1969).</string>
+    <string name="pfDesc"><b>Pink Floyd</b> were an English rock band formed in London. They achieved international acclaim with their
+        progressive and psychedelic music. Distinguished by their use of philosophical lyrics, sonic experimentation, extended
+        compositions and elaborate live shows, they are one of the most commercially successful and musically influential groups
+        in the history of popular music.\n\nPink Floyd were founded in 1965 by students Syd Barrett, Nick Mason, Roger Waters, and Richard Wright. They gained popularity
+        performing in London\'s underground music scene during the late 1960s, and under Barrett\'s leadership released two charting
+        singles and a successful debut album, The Piper at the Gates of Dawn (1967). David Gilmour joined as a fifth member in
+        December 1967; Barrett left the band in April 1968 due to deteriorating mental health. Waters became the band\'s primary
+        lyricist and, by the mid-1970s, their dominant songwriter, devising the concepts behind their critically and commercially
+        successful albums The Dark Side of the Moon (1973), Wish You Were Here (1975), Animals (1977), The Wall (1979) and The Final
+        Cut (1983). The Dark Side of the Moon and The Wall became two of the best-selling albums of all time.</string>
+    <string name="queenDesc"><b>Queen</b> are a British rock band that formed in London in 1970. The classic line-up was Freddie Mercury
+        (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals), and John Deacon (bass guitar). Queen\'s
+        earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more
+        conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock, into their music.
+        Before forming Queen, Brian May and Roger Taylor had played together in a band named Smile. Freddie Mercury (then known by
+        his birth name of Farrokh "Freddie" Bulsara) was a fan of Smile and encouraged them to experiment with more elaborate stage
+        and recording techniques. Mercury joined the band in 1970, suggested "Queen" as a new band name, and adopted his familiar
+        stage name. John Deacon was recruited prior to recording their eponymous debut album in 1973. Queen first charted in the UK
+        with their second album, Queen II, in 1974, but it was the release of Sheer Heart Attack later that year and A Night at the
+        Opera in 1975 which brought them international success. The latter featured "Bohemian Rhapsody", which stayed at number one
+        in the UK for nine weeks and popularised the music video. Their 1977 album, News of the World, contained "We Will Rock You"
+        and "We Are the Champions", which have become anthems at sporting events. By the early 1980s, Queen were one of the biggest
+        stadium rock bands in the world.</string>
+    <string name="metDesc"><b>Metallica</b> is an American heavy metal band formed in Los Angeles, California. Metallica was formed in 1981
+        when vocalist/guitarist James Hetfield responded to an advertisement posted by drummer Lars Ulrich in a local newspaper. The
+        band\'s current line-up comprises founding members Hetfield and Ulrich, longtime lead guitarist Kirk Hammett and bassist Robert
+        Trujillo. Lead guitarist Dave Mustaine and bassists Ron McGovney, Cliff Burton and Jason Newsted are former members of the band.
+        Metallica collaborated over a long period with producer Bob Rock, who produced all of the band\'s albums from 1990 to 2003 and
+        served as a temporary bassist between the departure of Newsted and the hiring of Trujillo.\n\nThe band\'s fast tempos, instrumentals, and aggressive musicianship placed them as one of the founding "big four" bands of
+        thrash metal, alongside Anthrax, Megadeth, and Slayer. The band earned a growing fan base in the underground music community
+        and won critical acclaim with its first four albums; their third album Master of Puppets (1986) was described as one of the
+        most influential and heaviest of thrash metal albums. Metallica achieved substantial commercial success with its eponymous
+        fifth album Metallica (1991), which debuted at number one on the Billboard 200. With this release the band expanded its musical
+        direction, resulting in an album that appealed to a more mainstream audience. In 2000, Metallica was among a number of artists
+        who filed a lawsuit against Napster for sharing the band\'s copyright-protected material for free without consent from any
+        band member. A settlement was reached and Napster became a pay-to-use service. Despite reaching number one on the Billboard 200,
+        the release of St. Anger (2003) alienated many fans with the exclusion of guitar solos and the "steel-sounding" snare drum.
+        A film titled Some Kind of Monster documented the recording of St. Anger and the tensions within the band during that time.
+        In 2009,Metallica was inducted into the Rock and Roll Hall of Fame.</string>
+</resources>
